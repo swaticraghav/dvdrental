@@ -1,4 +1,4 @@
-# dvdrental
+# dvdrental. Please checkout to master branch.
 Java Project - SQL and JAVA Connection
 
 SQL Queries taken care of in the project - 
